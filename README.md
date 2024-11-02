@@ -9,6 +9,9 @@
 - **Clear Visual Indicators**: Color-coded overlays for easy distinction between occupied (red) and available (green) slots.
 - **Accurate Occupancy Detection**: Achieves approximately 90% accuracy in controlled conditions using pixel-based thresholding techniques.
 
+![EasyPark Demo](CarParkingProject.gif)
+
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
