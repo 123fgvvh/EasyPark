@@ -36,8 +36,8 @@ Ensure you have a video file of a parking lot or a live feed for testing.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/easypark.git
-   cd easypark
+   git clone [https://github.com/123fgvvh/EasyPark.git]
+   cd EasyPark
    ```
 
 2. **Install dependencies**:
